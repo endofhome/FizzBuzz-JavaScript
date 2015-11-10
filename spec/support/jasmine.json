@@ -1,0 +1,15 @@
+{
+    "src_dir": "src",
+    "src_files": [
+    	"FizzBuzz.js"
+    ],
+    "spec_dir": "spec",
+    "spec_files": [
+        "FizzBuzzSpec.js",
+        "requests/**/*[sS]pec.js",
+        "utils/**/*[sS]pec.js"
+    ],
+    "helpers": [
+        "helpers/**/*.js"
+    ]
+}
